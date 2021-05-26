@@ -1,2 +1,0 @@
-# IndiaCoin-Web
-IndiaCoin Website
